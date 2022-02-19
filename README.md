@@ -12,3 +12,4 @@ Un blog increible pra el curso de Gir y GitHub
 * Las persoalidades multiples de Freddy´
 * Creado por el increible Félix
 * Incluye ejemplos en Windows, linux y mac
+* Disponibles para todas las edades
