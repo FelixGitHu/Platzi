@@ -11,3 +11,6 @@ Un blog increible pra el curso de Gir y GitHub
 * Trucos muy locos del profesor
 * Las persoalidades multiples de Freddy´
 * Creado por el increible Félix
+* Creado por el increible Félix
+* Incluye ejemplos en Windows, linux y mac
+* Disponibles para todas las edades
