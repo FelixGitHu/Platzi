@@ -6,7 +6,8 @@ Un blog increible pra el curso de Gir y GitHub
 
 ## En este curso vemos todo
 * Todos los comandos de Git
-*El flujo de trabajo en GitHub
-*El verdadero amor por las buenas practicas
+* El flujo de trabajo en GitHub
+* El verdadero amor por las buenas practicas
 * Trucos muy locos del profesor
-* Las persoalidades multiples de Freddy
+* Las persoalidades multiples de Freddy´
+* Creado por el increible Félix
